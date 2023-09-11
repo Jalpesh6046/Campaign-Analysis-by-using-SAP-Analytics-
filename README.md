@@ -13,3 +13,4 @@ Our goal was to provide valuable insights to the finance team for optimizing adv
 🔄 Frequency: Campaigns 3 and 10 had the lowest frequency, suggesting a limited reach.
 
 Based on these insights, we recommend revisiting Campaigns 3 and 10's strategies. It might be wise to consider reallocating resources or optimizing these campaigns to improve their performance.
+Dashboard Link :- https://guided-experience-sac-ap11.cfapps.ap11.hana.ondemand.com/sap/fpa/ui/tenants/b265d/bo/story/DDEBD9005C8737FDF26B5416258C58E3
